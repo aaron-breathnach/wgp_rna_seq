@@ -1,4 +1,4 @@
-This repo contains the R code used in the Johnston *et al.* study.
+This repo contains the R code used in the Johnston *et al.* study (https://doi.org/10.1016/j.isci.2024.109030).
 
 To run the analysis, run the following:
 
